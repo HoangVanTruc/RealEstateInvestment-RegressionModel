@@ -1,6 +1,9 @@
 # RealEstateInvestment-RegressionModel
 Project Objective: Analysis of Factors Influencing Real Estate Investment Decisions at Nam Long Investment Corporation Using Regression Models in R
 
+Team size: 5
+The dataset used in this project is a **simulated dataset**
+
 The primary goal of this project is to identify the key factors affecting investment decisions, build an appropriate regression model based on the collected data, and evaluate the model's accuracy to make conclusions and recommendations.
 
 Specific Objectives:
